@@ -3,19 +3,19 @@
     {
       name: "Twitter",
       url: "https://twitter.com/diversifiedpla1",
-      icon: "/images/twitter.svg",
+      icon: "images/twitter.svg",
       class: "twitter-icon", // Add a class for each social icon
     },
     {
       name: "Github",
       url: "https://github.com/diversifiedplayz",
-      icon: "/images/github.svg",
+      icon: "images/github.svg",
       class: "github-icon", // Add a class for each social icon
     },
     {
       name: "PlanetMinecraft",
       url: "https://www.planetminecraft.com/member/diversifiedplayz",
-      icon: "/images/planetminecraft.svg",
+      icon: "images/planetminecraft.svg",
       class: "planetminecraft-icon", // Add a class for each social icon
     },
   ];
